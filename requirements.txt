@@ -1,0 +1,15 @@
+fastapi[standard]
+tortoise-orm
+asyncpg
+pydantic[email]
+pydantic-settings
+passlib[bcrypt]
+cryptography
+loguru
+tzdata
+pytest
+pytest-asyncio
+httpx
+aiosqlite
+python-dotenv
+python-multipart
